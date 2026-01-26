@@ -1,0 +1,2893 @@
+{
+  "updatedAt": "2026-01-26T19:07:44.082Z",
+  "vagas": [
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 193,
+      "CARGO": "Novo Cargo",
+      "CONTRATO": "Comercial",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "PJ",
+      "TRIADOS": 30
+    },
+    {
+      "ID": 173,
+      "CARGO": "Manutencista Predial",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 379
+    },
+    {
+      "ID": 174,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "CEF - CAMPINAS",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 416
+    },
+    {
+      "ID": 176,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "POÇOS DE CALDAS",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 71
+    },
+    {
+      "ID": 181,
+      "CARGO": "Engenheiro Civil",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 5
+    },
+    {
+      "ID": 182,
+      "CARGO": "Engenheiro Eletricista",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 11
+    },
+    {
+      "ID": 183,
+      "CARGO": "Engenheiro Mecânico",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 10
+    },
+    {
+      "ID": 186,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "shopee",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 189
+    },
+    {
+      "ID": 192,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa Blumenau/ Manutenção",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 8
+    },
+    {
+      "ID": 195,
+      "CARGO": "Auxiliar De Engenharia",
+      "CONTRATO": "ENGENHARIA",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 49
+    },
+    {
+      "ID": 196,
+      "CARGO": "Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 41
+    },
+    {
+      "ID": 197,
+      "CARGO": "Eletricista",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 73
+    },
+    {
+      "ID": 198,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "MISSÃO CRÍTICA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 33
+    },
+    {
+      "ID": 202,
+      "CARGO": "Técnico Eletrônico",
+      "CONTRATO": "IPEN ME",
+      "UF": "SÃO PAULO",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 32
+    },
+    {
+      "ID": 203,
+      "CARGO": "Técnico Eletromecânico",
+      "CONTRATO": "IPEN ME",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    },
+    {
+      "ID": 204,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN CR/ENGENHARIA",
+      "UF": "MINAS GERAIS",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 31
+    },
+    {
+      "ID": 205,
+      "CARGO": "Auxiliar De Manutenção predial",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 63
+    },
+    {
+      "ID": 206,
+      "CARGO": "Auxiliar De Manutenção Elétrica",
+      "CONTRATO": "IPEN_ME/ENGENHARIA",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 25
+    },
+    {
+      "ID": 209,
+      "CARGO": "Auxiliar De Refrigeração",
+      "CONTRATO": "missao critica ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0
+    }
+  ]
+}
