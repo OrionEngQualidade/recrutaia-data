@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-26T19:24:42.702Z",
+  "updatedAt": "2026-01-28T12:43:42.790Z",
   "vagas": [
     {
       "ID": 193,
@@ -7,7 +7,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -15,7 +16,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -23,7 +25,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -31,15 +34,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -47,7 +43,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -55,7 +52,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -63,7 +61,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -71,7 +70,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -79,7 +79,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -87,7 +88,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -95,7 +97,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -103,31 +106,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -135,7 +142,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -143,7 +151,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -151,7 +160,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -159,7 +178,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -167,7 +187,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -175,7 +196,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -183,15 +205,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -199,7 +214,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -207,7 +223,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -215,7 +232,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -223,7 +241,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -231,7 +250,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -239,7 +259,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -247,7 +268,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -255,31 +277,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -287,7 +313,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -295,7 +322,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -303,7 +331,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -311,7 +349,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -319,7 +358,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -327,7 +367,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -335,15 +376,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -351,7 +385,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -359,7 +394,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -367,7 +403,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -375,7 +412,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -383,7 +421,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -391,7 +430,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -399,7 +439,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -407,31 +448,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -439,7 +484,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -447,7 +493,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -455,7 +502,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -463,7 +520,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -471,7 +529,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -479,7 +538,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -487,15 +547,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -503,7 +556,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -511,7 +565,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -519,7 +574,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -527,7 +583,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -535,7 +592,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -543,7 +601,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -551,7 +610,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -559,31 +619,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -591,7 +655,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -599,7 +664,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -607,7 +673,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -615,7 +691,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -623,7 +700,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -631,7 +709,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -639,15 +718,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -655,7 +727,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -663,7 +736,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -671,7 +745,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -679,7 +754,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -687,7 +763,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -695,7 +772,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -703,7 +781,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -711,31 +790,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -743,7 +826,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -751,7 +835,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -759,7 +844,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -767,7 +862,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -775,7 +871,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -783,7 +880,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -791,15 +889,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -807,7 +898,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -815,7 +907,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -823,7 +916,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -831,7 +925,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -839,7 +934,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -847,7 +943,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -855,7 +952,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -863,31 +961,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -895,7 +997,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -903,7 +1006,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -911,7 +1015,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -919,7 +1033,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -927,7 +1042,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -935,7 +1051,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -943,15 +1060,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -959,7 +1069,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -967,7 +1078,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -975,7 +1087,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -983,7 +1096,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -991,7 +1105,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -999,7 +1114,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1007,7 +1123,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1015,31 +1132,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1047,7 +1168,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1055,7 +1177,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1063,7 +1186,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1071,7 +1204,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1079,7 +1213,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1087,7 +1222,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1095,15 +1231,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1111,7 +1240,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1119,7 +1249,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1127,7 +1258,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1135,7 +1267,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1143,7 +1276,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1151,7 +1285,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1159,7 +1294,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1167,31 +1303,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1199,7 +1339,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1207,7 +1348,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1215,7 +1357,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1223,7 +1375,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1231,7 +1384,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1239,7 +1393,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1247,15 +1402,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1263,7 +1411,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1271,7 +1420,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1279,7 +1429,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1287,7 +1438,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1295,7 +1447,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1303,7 +1456,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1311,7 +1465,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1319,31 +1474,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1351,7 +1510,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1359,7 +1519,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1367,7 +1528,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1375,7 +1546,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1383,7 +1555,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1391,7 +1564,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1399,15 +1573,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1415,7 +1582,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1423,7 +1591,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1431,7 +1600,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1439,7 +1609,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1447,7 +1618,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1455,7 +1627,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1463,7 +1636,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1471,31 +1645,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1503,7 +1681,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1511,7 +1690,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1519,7 +1699,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1527,7 +1717,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1535,7 +1726,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1543,7 +1735,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1551,15 +1744,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1567,7 +1753,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1575,7 +1762,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1583,7 +1771,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1591,7 +1780,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1599,7 +1789,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1607,7 +1798,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1615,7 +1807,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1623,31 +1816,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1655,7 +1852,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1663,7 +1861,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1671,7 +1870,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1679,7 +1888,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1687,7 +1897,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1695,7 +1906,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1703,15 +1915,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1719,7 +1924,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1727,7 +1933,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1735,7 +1942,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1743,7 +1951,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1751,7 +1960,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1759,7 +1969,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1767,7 +1978,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1775,31 +1987,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1807,7 +2023,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1815,7 +2032,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1823,7 +2041,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1831,7 +2059,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1839,7 +2068,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1847,7 +2077,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -1855,15 +2086,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -1871,7 +2095,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -1879,7 +2104,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -1887,7 +2113,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -1895,7 +2122,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -1903,7 +2131,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -1911,7 +2140,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -1919,7 +2149,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -1927,31 +2158,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -1959,7 +2194,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -1967,7 +2203,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -1975,7 +2212,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -1983,7 +2230,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -1991,7 +2239,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -1999,7 +2248,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2007,15 +2257,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2023,7 +2266,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2031,7 +2275,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2039,7 +2284,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2047,7 +2293,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2055,7 +2302,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2063,7 +2311,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2071,7 +2320,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2079,31 +2329,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2111,7 +2365,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2119,7 +2374,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2127,7 +2383,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -2135,7 +2401,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -2143,7 +2410,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -2151,7 +2419,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2159,15 +2428,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2175,7 +2437,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2183,7 +2446,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2191,7 +2455,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2199,7 +2464,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2207,7 +2473,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2215,7 +2482,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2223,7 +2491,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2231,31 +2500,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2263,7 +2536,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2271,7 +2545,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2279,7 +2554,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -2287,7 +2572,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -2295,7 +2581,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -2303,7 +2590,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2311,15 +2599,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2327,7 +2608,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2335,7 +2617,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2343,7 +2626,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2351,7 +2635,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2359,7 +2644,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2367,7 +2653,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2375,7 +2662,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2383,31 +2671,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2415,7 +2707,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2423,7 +2716,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2431,7 +2725,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -2439,7 +2743,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -2447,7 +2752,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -2455,7 +2761,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2463,15 +2770,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2479,7 +2779,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2487,7 +2788,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2495,7 +2797,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2503,7 +2806,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2511,7 +2815,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2519,7 +2824,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2527,7 +2833,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2535,31 +2842,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2567,7 +2878,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2575,7 +2887,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2583,7 +2896,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -2591,7 +2914,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -2599,7 +2923,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -2607,7 +2932,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2615,15 +2941,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2631,7 +2950,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2639,7 +2959,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2647,7 +2968,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2655,7 +2977,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2663,7 +2986,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2671,7 +2995,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2679,7 +3004,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2687,31 +3013,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2719,7 +3049,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2727,7 +3058,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2735,7 +3067,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     },
     {
       "ID": 193,
@@ -2743,7 +3085,8 @@
       "CONTRATO": "Comercial",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "PJ",
-      "TRIADOS": 30
+      "TRIADOS": 31,
+      "DATA_INICIO_RECRUTAMENTO": "19/10/2025"
     },
     {
       "ID": 173,
@@ -2751,7 +3094,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 379
+      "TRIADOS": 378,
+      "DATA_INICIO_RECRUTAMENTO": "05/12/2025"
     },
     {
       "ID": 174,
@@ -2759,7 +3103,8 @@
       "CONTRATO": "CEF - CAMPINAS",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 416
+      "TRIADOS": 419,
+      "DATA_INICIO_RECRUTAMENTO": "22/12/2025"
     },
     {
       "ID": 176,
@@ -2767,15 +3112,8 @@
       "CONTRATO": "POÇOS DE CALDAS",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 71
-    },
-    {
-      "ID": 181,
-      "CARGO": "Engenheiro Civil",
-      "CONTRATO": "ENGENHARIA",
-      "UF": "SÃO PAULO",
-      "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 5
+      "TRIADOS": 71,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 182,
@@ -2783,7 +3121,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 11
+      "TRIADOS": 11,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 183,
@@ -2791,7 +3130,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 10
+      "TRIADOS": 10,
+      "DATA_INICIO_RECRUTAMENTO": "27/11/2025"
     },
     {
       "ID": 186,
@@ -2799,7 +3139,8 @@
       "CONTRATO": "shopee",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 189
+      "TRIADOS": 233,
+      "DATA_INICIO_RECRUTAMENTO": ""
     },
     {
       "ID": 192,
@@ -2807,7 +3148,8 @@
       "CONTRATO": "Serasa Blumenau/ Manutenção",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 8
+      "TRIADOS": 19,
+      "DATA_INICIO_RECRUTAMENTO": "26/01/2026"
     },
     {
       "ID": 195,
@@ -2815,7 +3157,8 @@
       "CONTRATO": "ENGENHARIA",
       "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 49
+      "TRIADOS": 49,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 196,
@@ -2823,7 +3166,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 41
+      "TRIADOS": 44,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 197,
@@ -2831,7 +3175,8 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 73
+      "TRIADOS": 83,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 198,
@@ -2839,31 +3184,35 @@
       "CONTRATO": "MISSÃO CRÍTICA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 34
+      "TRIADOS": 36,
+      "DATA_INICIO_RECRUTAMENTO": "08/01/2026"
     },
     {
       "ID": 202,
       "CARGO": "Técnico Eletrônico",
       "CONTRATO": "IPEN ME",
-      "UF": "SÃO PAULO",
+      "UF": "MINAS GERAIS",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 32
+      "TRIADOS": 32,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 203,
       "CARGO": "Técnico Eletromecânico",
       "CONTRATO": "IPEN ME",
-      "UF": "",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 18,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 204,
       "CARGO": "Auxiliar De Manutenção Elétrica",
       "CONTRATO": "IPEN CR/ENGENHARIA",
-      "UF": "MINAS GERAIS",
+      "UF": "SÃO PAULO",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 31
+      "TRIADOS": 42,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 205,
@@ -2871,7 +3220,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 63
+      "TRIADOS": 84,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 206,
@@ -2879,7 +3229,8 @@
       "CONTRATO": "IPEN_ME/ENGENHARIA",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 25
+      "TRIADOS": 25,
+      "DATA_INICIO_RECRUTAMENTO": "16/01/2026"
     },
     {
       "ID": 209,
@@ -2887,7 +3238,17 @@
       "CONTRATO": "missao critica ",
       "UF": "",
       "MODALIDADE DA VAGA": "CLT",
-      "TRIADOS": 0
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
+    },
+    {
+      "ID": 211,
+      "CARGO": "Oficial de Manutenção Predial",
+      "CONTRATO": "Serasa JK - Manutenção ",
+      "UF": "",
+      "MODALIDADE DA VAGA": "CLT",
+      "TRIADOS": 0,
+      "DATA_INICIO_RECRUTAMENTO": "23/01/2026"
     }
   ]
 }
